@@ -146,4 +146,7 @@ class SistemaBancario:
 
 if __name__ == "__main__":
     sistema_bancario = SistemaBancario()
-    sistema_bancario.ejecutar()
+    sistema_bancario.ejecut
+
+    saludar= "buenas tardes"
+    print(saludar)
